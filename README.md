@@ -1,6 +1,8 @@
 # Pwc-Corporate-Tax-internship
 Task 1: Introduction
+
 Reflect on and share my aspirations and what my hope to gain from this experience
+
 Task 2: Tax Provision Calculation
 
 Create a comprehensive Excel file summarizing the statutory income tax rates, capital tax rates, and the effective income tax rate for the client.
