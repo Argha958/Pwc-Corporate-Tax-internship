@@ -20,12 +20,14 @@ Respond to the client's queries about IP management and tax-efficient corporate 
 Write an email to the client explaining the tax-efficient merger of holding and IP activities.
 Analyze a tax assessment, explaining the validity of excluding QuickShip AG's tax benefits, and suggest legal actions if needed.
 Provide tax optimization advice after a sister merger, addressing tax return concerns
+
 Task 5: International Reorganisation
 
 Make a slide deck to
 Suggest ways to optimize FlyByU Group's structure and centralize IP.
 Determine if dormant companies should be part of the optimization and explain why.
 Examine tax implications and common issues in international IP transfers.
+
 Task 6: Base Erosion and Profit Shifting Considerations
 
 Investigate and summarize legal procedures for implementing OECD standards, especially for BEPS 2.0.
