@@ -1,5 +1,3 @@
-https://github.com/Argha958/Pwc-Corporate-Tax-internship/tree/main
-
 # Pwc-Corporate-Tax-internship
 **Task 1: Introduction**
 
