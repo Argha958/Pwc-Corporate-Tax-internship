@@ -1,5 +1,3 @@
-Cirtificate.pdf
-
 # Pwc-Corporate-Tax-internship
 **Task 1: Introduction**
 
