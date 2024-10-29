@@ -3,9 +3,6 @@
 
 Reflect on and share my aspirations and what my hope to gain from this experience
 
-![image](https://github.com/user-attachments/assets/7372dbcb-ade3-4dbb-8406-fd87fe0dfbaf)
-
-
 **Task 2: Tax Provision Calculation**
 
 Create a comprehensive Excel file summarizing the statutory income tax rates, capital tax rates, and the effective income tax rate for the client.
