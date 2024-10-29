@@ -1,3 +1,6 @@
+![Screenshot (141)](https://github.com/user-attachments/assets/39084919-1796-4a9c-9550-a73a0d8b8295)
+
+
 # Pwc-Corporate-Tax-internship
 **Task 1: Introduction**
 
